@@ -89,8 +89,8 @@ section, footer, header, .main-wrap{float: left; width: 100%; position: relative
 h1, h2, h3, h4, h5, h6, p{margin-top: 20px; float: left; width: 100%}
 h1, h2{text-align: center}
 li{margin-top: 10px; float: left; width: 100%}
-.food-recipe figure{margin-top: 30px; float: left; width: 100%}
-.food-recipe figure img{width: 100%}
+.main-container figure{margin-top: 30px; float: left; width: 100%}
+.main-container figure img{width: 100%}
 
 
 
